@@ -2,9 +2,9 @@
 
 --- 
 
-### Dashboard onLooker Studio
+### Dashboard on Looker Studio
 
-[Click here to view the Interactive Dashboard](https://lookerstudio.google.com/s/pCzpOLsVcq8)
+### [Click here to view the Interactive Dashboard](https://lookerstudio.google.com/s/pCzpOLsVcq8)
 
 #### Page 1: Employee Overview
 ![Employee Overview Page](Dashboard_Image2.png)
@@ -47,4 +47,5 @@ Based on the data, I recommend that management conduct targeted retention interv
 ## Tools Used
 
 * **Google Looker Studio (Google Data Studio):** For dashboard creation, visualization, and interactivity.
+
 * **CSV / Google Sheets:** As the data source.
