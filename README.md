@@ -1,4 +1,4 @@
-## HR Attrition Analysis (Looker Studio)
+# HR Attrition Analysis (Looker Studio)
 
 --- 
 
@@ -49,3 +49,4 @@ Based on the data, I recommend that management conduct targeted retention interv
 * **Google Looker Studio (Google Data Studio):** For dashboard creation, visualization, and interactivity.
 
 * **CSV / Google Sheets:** As the data source.
+
